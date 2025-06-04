@@ -21,6 +21,8 @@ See directory layout in the repo.
 Pretrained models are available in the `models/` directory:
 - `patch_attention_best.pth`
 - `dual_encoder_best.pth`
+- `dual_encoder_hnm_best.pth`
+- `model_weights_vit25.h5`
 
 ## 🛠️ Setup
 ```bash
