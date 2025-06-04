@@ -40,3 +40,8 @@ Pretrained models are available in the `models/` directory:
 git clone https://github.com/Prayash-Das/ViTCap-R.git
 cd ViTCap-R
 pip install -r requirements.txt
+```
+
+## 📝 License
+
+This project is licensed under the MIT License.
