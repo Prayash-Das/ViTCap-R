@@ -30,7 +30,7 @@ Pretrained models are available in the `models/` directory:
 ![t-SNE MSCOCO](MSCOCO/tsne_vitcap_retrieval.png)
 
 ### PCA of Flickr8k Validation Set
-![PCA Flickr8k](figures/pca_flickr8k_val.png)
+![PCA Flickr8k](Flickr8k/PCA.png)
 
 ## 🛠️ Setup
 ```bash
