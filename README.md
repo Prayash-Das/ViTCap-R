@@ -33,7 +33,7 @@ Pretrained models are available in the `models/` directory:
 ![PCA Flickr8k](Flickr8k/PCA.png)
 
 ### Histogram of Embedding Distances (MSCOCO)
-![Embedding Distance Histogram](MSCOCO/embedding_distance_hist_mscoco.png)
+![Embedding Distance Histogram](MSCOCO/embedding_distance_histogram.png)
 
 ## 🛠️ Setup
 ```bash
