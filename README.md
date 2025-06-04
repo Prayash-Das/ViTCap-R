@@ -10,8 +10,8 @@ ViTCap-R is a unified deep learning framework that combines image captioning and
 - Qualitative visualizations (attention heatmaps, t-SNE, PCA)
 - Evaluation with BLEU, METEOR, and Recall@K
 
-## 📦 Project Structure
-See directory layout in the repo.
+## 📦 Implementation Details
+See the Project Report for implementation details, including system architecture, training methodology, dataset information, experimental setup, and evaluation results.
 
 ## 📊 Datasets
 - [Flickr8k](https://forms.illinois.edu/sec/1713398)
