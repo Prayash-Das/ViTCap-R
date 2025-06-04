@@ -24,6 +24,14 @@ Pretrained models are available in the `models/` directory:
 - `dual_encoder_hnm_best.pth`
 - `model_weights_vit25.h5`
 
+## 🖼️ Visualizations
+
+### t-SNE Retrieval (300 Image-Caption Pairs from MSCOCO)
+![t-SNE MSCOCO](figures/tsne_mscoco_300.png)
+
+### PCA of Flickr8k Validation Set
+![PCA Flickr8k](figures/pca_flickr8k_val.png)
+
 ## 🛠️ Setup
 ```bash
 git clone https://github.com/Prayash-Das/ViTCap-R.git
