@@ -32,6 +32,9 @@ Pretrained models are available in the `models/` directory:
 ### PCA of Flickr8k Validation Set
 ![PCA Flickr8k](Flickr8k/PCA.png)
 
+### Histogram of Embedding Distances (MSCOCO)
+![Embedding Distance Histogram](MSCOCO/embedding_distance_hist_mscoco.png)
+
 ## 🛠️ Setup
 ```bash
 git clone https://github.com/Prayash-Das/ViTCap-R.git
