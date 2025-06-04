@@ -27,7 +27,7 @@ Pretrained models are available in the `models/` directory:
 ## 🖼️ Visualizations
 
 ### t-SNE Retrieval (300 Image-Caption Pairs from MSCOCO)
-![t-SNE MSCOCO](figures/tsne_mscoco_300.png)
+![t-SNE MSCOCO](MSCOCO/tsne_vitcap_retrieval.png)
 
 ### PCA of Flickr8k Validation Set
 ![PCA Flickr8k](figures/pca_flickr8k_val.png)
